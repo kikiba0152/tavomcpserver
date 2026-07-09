@@ -180,5 +180,5 @@ MIT License
 
 ## 归属声明
 
-- **MCP Server**：[Tavo](https://tavo.app) 版权所有
+- **MCP Server**：[Tavo](https://tavoai.dev/app/index.html) 版权所有
 - **Operit 包封装**：[kikiba0152](https://github.com/kikiba0152)
