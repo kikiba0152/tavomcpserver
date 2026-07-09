@@ -1,0 +1,19 @@
+{
+  "name": "tavomcpserver",
+  "version": "1.0.0",
+  "description": "Tavo MCP Server — 为 Tavo 角色扮演平台提供完整的 MCP 远程管理接口。MCP 服务端归 Tavo 平台所有。",
+  "author": "kikiba0152",
+  "license": "MIT",
+  "keywords": [
+    "tavo",
+    "mcp",
+    "character",
+    "lorebook",
+    "roleplay",
+    "operit"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kikiba0152/tavomcpserver"
+  }
+}
